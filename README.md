@@ -41,7 +41,7 @@ A aplicação gera QR Code dinamicamente usando uma API externa e atualiza a int
 
 ## 🔗 Projeto On-line
 Este projeto está disponível para visualização on-line. <br />
-Você pode acessá-lo através do link: https://tabuada-com-java-script.vercel.app/
+Você pode acessá-lo através do link: https://gerador-qrcode-js-api.vercel.app/
 
 <br />
 
